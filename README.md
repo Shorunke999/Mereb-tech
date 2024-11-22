@@ -9,13 +9,13 @@
 ## TESTS ASSESMENT SOLUTION
 
 * run php test.php in the terminal
-** tests Runs Are:
-  **testReturnType
-  **testBasicRange
-  **testLargeRange
-  **testEdgeCase(Zero Range)
-  **testRandomness
-![Tests Ouput](images/tests_result.png)
+ tests Runs Are:
+testReturnType
+testBasicRange
+testLargeRange
+testEdgeCase(Zero Range)
+testRandomness
+![Tests Ouput](image/tests_result.PNG)
 
 ---------------------------------------------
 
